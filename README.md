@@ -1,2 +1,2 @@
-# Statistical Analysis of Two Telecom Plan
+# Statistical Analysis of Two Telecom Plans
  
