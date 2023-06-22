@@ -1,2 +1,2 @@
-# stat_analysis_practicum
+# Statistical Analysis of Two Telecom Plans
  
