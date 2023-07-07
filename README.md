@@ -3,8 +3,10 @@
 I did this project during the completion of Praticum Data Analytic Bootcamp Program. A Prepaid Telecom company plans to increase revenue from two of the prepaid plans. To accomplish this goal I did the statistical analysis of two plans.
 
 ## Prerequisite
-datasets from two prepaid plans
+Datasets from two prepaid plans
+
 Python download and necessary libraries
+
 Jupyternotebook app to write the project code and comments
 
 ## Project Description 
