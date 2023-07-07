@@ -13,7 +13,7 @@ Jupyternotebook app to write the project code and comments
 
  A telecom company offers two type of phone plan. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget.
  The datasets of the prepaid plans are given in the following features:
- plans,
+ plans,  
  calls,
  internet, and 
  users
