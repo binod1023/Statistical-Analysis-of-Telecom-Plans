@@ -19,6 +19,6 @@ Jupyternotebook app to write the project code and comments
  Then I used the given data on 500 Megaline clients: who the clients are, where they're from, which plan they use, and the number of calls they made and text messages they sent in 2018.  
 I analyzed the two plans on the basis of plan's features such as call duration, number of messages sent, internet data used on factor such as user's age, time of a year, and geographical location.   
 I did hypothesis testing on mean revenue collection from the two plans.    
-Then the second hypothesis testing is to check revenue collection of New York and outside of New York city. 
+Then the second hypothesis testing is to check revenue collection of New York and outside of New York city.  
 Finally, I made the conclusion by analyzing clients' behavior and determine which prepaid plan brings in more revenue.
 
