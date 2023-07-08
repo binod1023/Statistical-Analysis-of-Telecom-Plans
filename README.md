@@ -10,9 +10,9 @@ Jupyternotebook app to write the project code and comments
 ## Table of Content
 Jupyternotebook is used to perform this project with the following content  
 Importing datasets  
-Preparing data  
-Analyzing user behviour 
-Hypothesis Testing
+Preparing data    
+Analyzing user behviour   
+Hypothesis Testing  
 Final Conclusion
 
 ## Project Description 
