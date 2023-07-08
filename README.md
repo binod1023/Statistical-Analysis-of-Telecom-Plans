@@ -7,6 +7,14 @@ Datasets from two prepaid plans
 Python download and necessary libraries  
 Jupyternotebook app to write the project code and comments
 
+## Table of Content
+Jupyternotebook is used to perform this project with the following content  
+Importing datasets  
+Preparing data  
+Analyzing user behviour 
+Hypothesis Testing
+Final Conclusion
+
 ## Project Description 
  A telecom company offers two types of phone plan. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget.  
  The datasets of the prepaid plans are given in the following features:  
